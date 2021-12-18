@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GKLab4", "GKLab4\GKLab4.csproj", "{919D4284-4172-47EC-B61A-1763AACC20A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919D4284-4172-47EC-B61A-1763AACC20A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919D4284-4172-47EC-B61A-1763AACC20A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919D4284-4172-47EC-B61A-1763AACC20A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919D4284-4172-47EC-B61A-1763AACC20A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F49965-182D-4A98-9219-BC5FC75CED52}
+	EndGlobalSection
+EndGlobal
